@@ -4,12 +4,12 @@
 },
 {
   "title": "5-aminosalicylates",
-  "options": ["no", "mesalamine", "sulfasalazine"	]
+  "options": ["no", "mesalamine", "sulfasalazine"]
 },
 { 
  "title": "immunomodulator",
   "options": ["no", "imuran", "purinethol", "methotrexate", "allopurinol"]
-}
+},
 {
   "title": "thiopurinesIncluding",
   "options": ["no", "yes"]
@@ -33,7 +33,7 @@
 {
   "title": "steroids",
   "options": ["no", "prednisone", "budesonide", "intravenous"]
-},
+}]
 
 
   
