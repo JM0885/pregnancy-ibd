@@ -29,7 +29,7 @@
 {
   "title": "antibiotics",
   "options": ["no", "ciprofloxacin", "metronidazole", "vancomycin"]
-},
+}]
 
 
   
