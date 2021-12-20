@@ -1,6 +1,6 @@
 [{ 
  "title": "corticosteroids",
-  "options": ["no", "budesonide", "prednisone", "prednisolone", "methylprednisolone", "hydrocortisone"]
+  "options": ["no", "budesonide", "prednisone", "methylprednisolone", "hydrocortisone"]
 },
 {
   "title": "5-aminosalicylates",
@@ -28,7 +28,7 @@
 },
 {
   "title": "antibiotics",
-  "options": ["no", "ciprofloxacin", "metronidazole", "vancomycin"]
+  "options": ["no", "ciprofloxacin", "metronidazole", "penicillin"]
 }]
 
 
