@@ -367,17 +367,6 @@
         "vaccinations": "",
         "infections": ""
       },
-      "antibioticsmetronidazole": {
-        "pregnant": {
-          "medications": "No known concerns."
-        },
-        "preconception": {
-          "medications": "No known concerns."
-        },
-        "breastfeeding": "No known concerns.",
-        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
-        "infections": "No known impact on infant risk"
-      },
       "antibioticspenicillin": {
         "pregnant": {
           "medications": "No known concerns."
