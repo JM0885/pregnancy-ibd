@@ -124,7 +124,7 @@
       "option6": "Exposing my baby to a medication for which we only have limited information on safety for pregnancy (for example, small number of patients who have received the medication in pregnancy or short duration of follow up of infants)"
     },
     "medicationSelection": {
-      "aminosalicylatessulfasalazine": {
+      "5-aminosalicylatessulfasalazine": {
         "pregnant": {
           "medications": "Inhibits folate synthesis. Women taking this medication should also be taking folic acid supplements (2 – 3 mg per day) throughout pregnancy"
         },
@@ -135,12 +135,12 @@
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
         "infections": "No known impact on infant risk"
       },
-      "aminosalicylatesotherAminosalicylates": {
+      "5-aminosalicylatesmesalamine": {
         "pregnant": {
-          "medications": "If you are taking Asacol® and are pregnant, it is not recommended to switch to another 5 ASA as there is a small risk of flaring with switching, even if it does have the DBP coating."
+          "medications": "No known concerns."
         },
         "preconception": {
-          "medications": "Some formulations of Asacol® contain a chemical in the coating (DBP) that may pose a very small risk to the fetal development. If your prescribed Asacol (check with your gastroenterologist or pharmacist) does have this coating, consider switching to another 5 ASA."
+          "medications": "No known concerns."
         },
         "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.\nThere have been rare reports of 5-ASA hypersensitivity in the breast fed infant, leading to bloody diarrhea.  If your baby has bloody diarrhea, take baby to your family physician or pediatrician. Discuss with your GI if it is felt the 5-ASA is causing the bloody diarrhoea as you will need to find another therapy.",
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
@@ -223,17 +223,6 @@
         "vaccinations": "",
         "infections": ""
       },
-      "methotrexateyes": {
-        "pregnant": {
-          "medications": "If you become pregnant while taking methotrexate, stop taking the methotrexate immediately and schedule an urgent appointment with your doctor or obstetric care provider. Notify your gastroenterologist as well, as they may have to find another medication"
-        },
-        "preconception": {
-          "medications": "Methotrexate can be harmful in pregnancy causing embryo malformation and fetal death. Discontinue use at least 3 months prior to trying to conceive (women and men)."
-        },
-        "breastfeeding": "Most experts recommend not to breastfeed while on Methotrexate. If a decision is made to breastfeed, it is recommended to withhold breastfeeding for 24 hours after a weekly dose. Monitoring of the infant's blood count (CBC) could be considered.",
-        "vaccinations": "",
-        "infections": ""
-      },
        "immunomodulatorallopurinol": {
         "pregnant": {
           "medications": "Note allopurinol is not an immunosuppressant however may be used to help the action of azathioprine or 6MP. There is conflicting information surrounding the use of allopurinol in pregnancy, with some studies suggesting safety and others reporting fetal harm. Accordingly, while safety of use in pregnancy cannot be reassured, stopping allopurinol in pregnancy is not advised prior to consultation with your gastroenterologist."
@@ -244,28 +233,6 @@
         "breastfeeding": "",
         "vaccinations": "",
         "infections": ""
-      },
-      "allopurinolyes": {
-        "pregnant": {
-          "medications": "Note allopurinol is not an immunosuppressant however may be used to help the action of azathioprine or 6MP. There is conflicting information surrounding the use of allopurinol in pregnancy, with some studies suggesting safety and others reporting fetal harm. Accordingly, while safety of use in pregnancy cannot be reassured, stopping allopurinol in pregnancy is not advised prior to consultation with your gastroenterologist."
-        },
-        "preconception": {
-          "medications": "Note allopurinol is not an immunosuppressant however may be used to help the action of azathioprine or 6MP. There is conflicting information surrounding the safety of use of allopurinol in pregnancy, with some studies suggesting safety and others reporting fetal harm. Accordingly, while safety of use in pregnancy cannot be reassured, it is suggested you discuss with your gastroenterologist potentially revising the use of allopurinol prior to becoming pregnant."
-        },
-        "breastfeeding": "Exclusively breastfed infants should be monitored, including observation for allergic reactions (such as rash) and periodic blood count (CBC).",
-        "vaccinations": "",
-        "infections": ""
-      },
-      "thiopurinesIncludingyes": {
-        "pregnant": {
-          "medications": "Monitor maternal blood counts (CBC) monthly. It is recommended not to start during pregnancy (small risk of drug reaction, including pancreatitis). Given there is one small report of anaemia in an infant, consider checking infant blood count (CBC) at birth."
-        },
-        "preconception": {
-          "medications": "No known concerns."
-        },
-        "breastfeeding": "The limited number of studies that have been done show that the amount of medication passed through breast milk is in very small amounts and it is acceptable to take while breastfeeding.",
-        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
-        "infections": "When thiopurines have been used in combination with anti-TNFs during pregnancy, there has been identification of a small increased risk of common infections in the infant, such as ear and upper respiratory tract infections within the first 12 months of life."
       },
       "biologicsantiTnfs": {
         "pregnant": {
@@ -311,17 +278,6 @@
         "vaccinations": "Insufficent information is available at the time this resource was created to advise.",
         "infections": "There was minimal information available at the time this resource was created."
       },
-      "smallMoleculesyes": {
-        "pregnant": {
-          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
-        },
-        "preconception": {
-          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use in pregnancy is currently not advised. "
-        },
-        "breastfeeding": "No information is available on the clinical use of tofacitinib during breastfeeding.",
-        "vaccinations": "Insufficent information is available at the time this resource was created to advise.",
-        "infections": "There was minimal information available at the time this resource was created."
-      },
       "calcineurinInhibitorcyclosporin": {
         "pregnant": {
           "medications": ""
@@ -341,8 +297,8 @@
           "medications": "No known concerns."
         },
         "breastfeeding": "Delay feeding 3-4 h after dose",
-        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
-        "infections": "No known impact on infant risk"
+        "vaccinations": "",
+        "infections": ""
       },
       "antibioticsmetronidazole": {
         "pregnant": {
@@ -355,7 +311,7 @@
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
         "infections": "No known impact on infant risk"
       },
-      "antibioticsvancomycin": {
+      "antibioticspenicillin": {
         "pregnant": {
           "medications": "No known concerns."
         },
@@ -366,50 +322,6 @@
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
         "infections": "No known impact on infant risk"
       },
-      "steriodsprednisone": {
-        "pregnant": {
-          "medications": "Associated risk include gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking the medication.  Suggest discussion with your obstetrician and gastroenterologist."
-        },
-        "preconception": {
-          "medications": "No known concerns."
-        },
-        "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose",
-        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
-        "infections": "In the first 4 months of life, there is a potential for small increase in infection"
-      },
-      "steriodsbudesonide": {
-        "pregnant": {
-          "medications": "Limited information regarding use in pregnancy. Use in pregnancy is considered safe from available information."
-        },
-        "preconception": {
-          "medications": "No known concerns."
-        },
-        "breastfeeding": "No known concerns",
-        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
-        "infections": "No known impact on infant risk"
-      },
-      "steriodsintravenous": {
-        "pregnant": {
-          "medications": "Preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
-        },
-        "preconception": {
-          "medications": ""
-        },
-        "breastfeeding": "Limited transfer of methylprednisolone into breastmilk; to minimise exposure, delay feeding 2 to 4 hours after dose. There is no data to support hydrocortisone use.",
-        "vaccinations": "",
-        "infections": ""
-      },
-      "testtest2": {
-        "pregnant": {
-          "medications": "Preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
-        },
-        "preconception": {
-          "medications": ""
-        },
-        "breastfeeding": "Limited transfer of methylprednisolone into breastmilk; to minimise exposure, delay feeding 2 to 4 hours after dose. There is no data to support hydrocortisone use.",
-        "vaccinations": "",
-        "infections": ""
-      }
     }
   }
 }
