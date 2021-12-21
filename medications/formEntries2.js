@@ -11,15 +11,11 @@
   "options": ["no", "imuran", "purinethol", "methotrexate", "allopurinol"]
 },
 {
-  "title": "thiopurinesIncluding",
-  "options": ["no", "yes"]
-},
-{
   "title": "biologics",
   "options": ["no", "antiTnfs", "ustekinumab", "vedolizumab"]
 },
 {
-  "title": "smallMolecules",
+  "title": "smallMolecule",
   "options": ["no", "tofacitinib"]
 },
   {
