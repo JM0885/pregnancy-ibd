@@ -33,7 +33,7 @@
     "internalPages": {
       "medicationP1": "My Medication List",
       "medicationP2": "Medications - MTX",
-      "medicationP3": "Biologics",
+      "medicationP3": "",
       "medicationP4": "Opinions Now",
       "medicationP5": "My Medication Information",
       "medicationP6": "Opinion Review",
@@ -80,7 +80,7 @@
         "allopurinol": "Allopurinol",
         "thiopurinesIncluding": "THIOPURINES including 6-mercaptopurine (Purinethol®) and Azathioprine (Imuran®)",
         "biologics": "Biologics",
-        "antiTnfs": "Anti TNF: Remicade® (Infliximab), Inflectra® (Infliximab), Humira®(Adalimumab), Simponi® (Golimumab)",
+        "antiTNFs": "Anti TNF: Remicade® (Infliximab), Inflectra® (Infliximab), Humira®(Adalimumab), Simponi® (Golimumab)",
         "vedolizumab": "Entyvio® (Vedolizumab)",
         "ustekinumab": "Stelara® (Ustekinumab)",
         "smallMolecules": "Small molecule",
@@ -323,7 +323,7 @@
         "vaccinations": "Babies exposed to ustekinumab in utero should NOT receive LIVE vaccines for the first 9 to 12 months of life. All other vaccinations should be given",
         "infections": "There was limited information available at the time this resource was created. However from what is available, no new concerns have been identified when compared with anti-TNFs."
       },
-        "smallMoleculestofacitinib": {
+        "smallMoleculetofacitinib": {
         "pregnant": {
           "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
         },
