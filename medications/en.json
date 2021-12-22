@@ -33,7 +33,7 @@
     "internalPages": {
       "medicationP1": "My Medication List",
       "medicationP2": "Medications - MTX",
-      "medicationP3": "",
+      "medicationP3": "Biologics",
       "medicationP4": "Opinions Now",
       "medicationP5": "My Medication Information",
       "medicationP6": "Opinion Review",
@@ -80,7 +80,7 @@
         "allopurinol": "Allopurinol",
         "thiopurinesIncluding": "THIOPURINES including 6-mercaptopurine (Purinethol®) and Azathioprine (Imuran®)",
         "biologics": "Biologics",
-        "antiTNFs": "Anti TNF: Remicade® (Infliximab), Inflectra® (Infliximab), Humira®(Adalimumab), Simponi® (Golimumab)",
+        "antiTnfs": "Anti TNF: Remicade® (Infliximab), Inflectra® (Infliximab), Humira®(Adalimumab), Simponi® (Golimumab)",
         "vedolizumab": "Entyvio® (Vedolizumab)",
         "ustekinumab": "Stelara® (Ustekinumab)",
         "smallMolecules": "Small molecule",
