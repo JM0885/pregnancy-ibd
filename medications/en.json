@@ -186,7 +186,7 @@
         "pregnant": {
           "medications": "There is a small risk of cleft palate development associated with steroid use in the first trimester. There is also additional associated risks including gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking steroids to control active disease. Suggest discussion with your obstetrician and gastroenterologist as there may also be the options of steroid sparing medications such as biologics."
         },
-        "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose."
+        "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose.",
         "vaccinations": "",
         "infections": ""
       },
@@ -219,8 +219,7 @@
         "preconception": {
           "medications": "No known concerns."
         },
-        "breastfeeding": "The limited number of studies that have been done show that the amount of medication passed through breast milk is in very small amounts and it is acceptable to take while breastfeeding. Given there is one small report of anaemia in an infant, consider checking infant blood count (CBC) at birth.
-",
+        "breastfeeding": "The limited number of studies that have been done show that the amount of medication passed through breast milk is in very small amounts and it is acceptable to take while breastfeeding. Given there is one small report of anaemia in an infant, consider checking infant blood count (CBC) at birth.",
         "vaccinations": "",
         "infections": ""
       },
